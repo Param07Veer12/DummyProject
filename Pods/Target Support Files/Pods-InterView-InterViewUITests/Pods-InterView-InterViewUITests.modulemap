@@ -1,0 +1,6 @@
+framework module Pods_InterView_InterViewUITests {
+  umbrella header "Pods-InterView-InterViewUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
